@@ -1,4 +1,20 @@
 # maratona_discover
- Aplicação desenvolvida na Maratona Discover - Rockeseat 2021
+ Aplicação desenvolvida na Maratona Discover - @rocketseat 2021
  
-Usando a linguagem JavaScript o programa tem funcionalidades como calcular as entradas e saídas, adicionar e remover uma transação e salvar tudo no navegador.
+
+
+
+🚀**Tecnologias**
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+
+💻 **Projeto**
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
