@@ -3,6 +3,10 @@
     --green: #49aa26;
     --light-green: #3dd705;
     --red: #e92929;
+    --grape: #94618E;
+    --eggplant: #6E3667;
+    --eletric: #88D317;
+    --violet: #6e3667;
 }
 
 * {
@@ -23,7 +27,8 @@ body{
 .sr-only {
     position: absolute;
     width: 1px;
-    padding:0;
+    height: 1px;
+    padding: 0;
     margin: -1px;
     overflow: hidden;
     clip: rect(0, 0, 0,);
@@ -49,7 +54,7 @@ h2 {
 /* Links e Buttons */
 
 a {
-    color: var(--green);
+    color: var(--grape);
     text-decoration: none;
 }
 
@@ -64,7 +69,7 @@ button {
     border: none;
 
     color: white;
-    background: var(--green);
+    background: var(--eggplant);
 
     padding: 0;
     border-radius: 0.25rem;
@@ -99,7 +104,7 @@ button:hover {
 /* Header */
 
 header {
-    background: #2d4a22;
+    background: var(--violet);
     padding: 2rem 0 10rem;
     text-align: center;
 }
